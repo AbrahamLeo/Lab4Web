@@ -18,4 +18,4 @@ Clearfix digunakan untuk mengatur element setelah float element. Property clear 
 Tambahkan element div lainnya seteleah div3 dan atur property clear pada CSS seperti berikut.
 ![Syntax](SSBox/7.png) <br>
 Selanjutnya buka browser dan refresh kembali.
-![Hasil](SSBox/6.png) <br>
+![Hasil](SSBox/8.png) <br>
